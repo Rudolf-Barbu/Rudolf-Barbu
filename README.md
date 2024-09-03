@@ -10,12 +10,10 @@ Hello, world!
  -  Myself is driven by a enthusiasm to make things, other people could use.
  -  I have good and strong, self-learning skills. Also, I have my ownprojects, so you can check them.
  -  Moreover, one of them achieved GitHub trending page.
+
 </pre>
 
 ---
-
-
-
 
 <picture>
     <source media = "(prefers-color-scheme: dark)" srcset = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&theme=dark&show_icons=true" />
@@ -23,7 +21,7 @@ Hello, world!
 </picture>
 
 - 🌱 Doing great stuff on backend.
-- 🥇 Java / Search / Data Science / Machine Learning / Services
+- 🥇 Java / Search / Data Science / Machine Learning
 - 💭 Ask me anything at [Telegram]()
 - 🎮 Play with me on [Steam]()
 - 🔑 GPG key: [863A0F9FA8127FA4](https://github.com/rudolf-barbu.gpg)
