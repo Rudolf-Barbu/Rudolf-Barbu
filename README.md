@@ -28,7 +28,7 @@ Hello, world!
 
 ---
 
-:y::package::seedling::thought_balloon::mag::star::key: 
+<img width = "10%" src = "https://komarev.com/ghpvc/?username=rudolf-barbu&label=Profile%20views&color=blue&style=flat-square" alt = "Rudolf-Barbu" /> 
 
 
 
