@@ -27,7 +27,7 @@ Hello, world!
 
 ---
 
-<img width = "10%" src = "https://komarev.com/ghpvc/?username=rudolf-barbu&label=Profile%20views&color=blue&style=flat-square" alt = "Rudolf-Barbu" /> 
+<img width = "15%" src = "https://komarev.com/ghpvc/?username=rudolf-barbu&label=Profile%20views&color=blue&style=flat-square" alt = "Rudolf-Barbu" /> 
 
 
 
