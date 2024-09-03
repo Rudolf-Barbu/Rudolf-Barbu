@@ -1,11 +1,18 @@
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at Tsinghua University, China.
 <pre>
- ____            _       _  __
-|  _ \ _   _  __| | ___ | |/ _|
-| |_) | | | |/ _` |/ _ \| | |_
-|  _ <| |_| | (_| | (_) | |  _|
-|_| \_\\__,_|\__,_|\___/|_|_|
+   ______     __  __     _____     ______     __         ______    . 　　✦⠀　   　　　,　　　　　　　　　*
+  /\  == \   /\ \/\ \   /\  __-.  /\  __ \   /\ \       /\  ___\    * ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦
+  \ \  __<   \ \ \_\ \  \ \ \/\ \ \ \ \/\ \  \ \ \____  \ \  __\       ✦ 　　　　　,　　　　　　　.
+   \ \_\ \_\  \ \_____\  \ \____-  \ \_____\  \ \_____\  \ \_\    .　　　ﾟ .　　　　　　　　　　　　　.  ⠀.
+    \/_/ /_/   \/_____/   \/____/   \/_____/   \/_____/   \/_/     ,　　　　　　.   *⠀　　⠀  　　　　　⠀✦⠀　
+
+Hello, world! 
+ -  I'm very passionate Java developer, have great work experience.
+ -  Myself is driven by a enthusiasm to make things, other people could use.
+ -  I have good and strong, self-learning skills. Also, I have my ownprojects, so you can check them.
+ -  Moreover, one of them achieved GitHub trending page.
+
 </pre>
+
 ---
 
 <picture>
