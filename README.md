@@ -19,10 +19,10 @@ Hello, world!
     <img align = "right" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&show_icons=true" alt = "Rudolf-Barbu" />
 </picture>
 
+- 🌱 Doing great stuff on backend.
 - 🥇 Java / Search / Data Science / Machine Learning
 - 💭 Ask me anything at [Telegram](https://t.me/Rudolf_Barbu)
 - 🎮 Play with me on [Steam](https://steamcommunity.com/id/rudolf_barbu)
-- 🔑 GPG key: [863A0F9FA8127FA4](https://github.com/rudolf-barbu.gpg)
 
 ---
 
