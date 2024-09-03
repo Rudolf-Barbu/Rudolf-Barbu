@@ -20,8 +20,8 @@ Hello, world!
 </picture>
 
 - 🥇 Java / Search / Data Science / Machine Learning
-- 💭 Ask me anything at [Telegram]()
-- 🎮 Play with me on [Steam]()
+- 💭 Ask me anything at [Telegram](https://t.me/Rudolf_Barbu)
+- 🎮 Play with me on [Steam](https://steamcommunity.com/id/rudolf_barbu)
 - 🔑 GPG key: [863A0F9FA8127FA4](https://github.com/rudolf-barbu.gpg)
 
 ---
