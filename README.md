@@ -20,7 +20,6 @@ Hello, world!
     <img align = "right" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&show_icons=true" alt = "Rudolf-Barbu" />
 </picture>
 
-- 🌱 Doing great stuff on backend.
 - 🥇 Java / Search / Data Science / Machine Learning
 - 💭 Ask me anything at [Telegram]()
 - 🎮 Play with me on [Steam]()
