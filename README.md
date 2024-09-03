@@ -27,9 +27,3 @@ Hello, world!
 ---
 
 <img width = "15%" src = "https://komarev.com/ghpvc/?username=rudolf-barbu&label=Profile%20views&color=blue&style=flat" alt = "Rudolf-Barbu" /> 
-
-
-
-
-
-
