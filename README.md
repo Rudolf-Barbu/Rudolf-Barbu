@@ -3,7 +3,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 ---
 
 <picture>
-    <source srcset = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&theme=dark&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&theme=dark&show_icons=true" />
     <img align = "right" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&show_icons=true" />
 </picture>
 
