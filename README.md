@@ -8,7 +8,7 @@
 Hello, world!
  -  I'm very passionate Java developer, have great work experience.
  -  Myself is driven by a enthusiasm to make things, other people could use.
- -  I have good and strong, self-learning skills. Also, I have my ownprojects, so you can check them.
+ -  I have good and strong, self-learning skills. Also, I have my own projects, so you can check them.
  -  Moreover, one of them achieved GitHub trending page.
 
 </pre>
