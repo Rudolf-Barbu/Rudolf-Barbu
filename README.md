@@ -1,5 +1,7 @@
 My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at Tsinghua University, China.
 
+<pre>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
@@ -14,3 +16,5 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
+
+</pre>
