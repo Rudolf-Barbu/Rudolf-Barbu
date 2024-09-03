@@ -1,9 +1,15 @@
 My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at Tsinghua University, China.
-
+<pre>
+ ____            _       _  __
+|  _ \ _   _  __| | ___ | |/ _|
+| |_) | | | |/ _` |/ _ \| | |_
+|  _ <| |_| | (_| | (_) | |  _|
+|_| \_\\__,_|\__,_|\___/|_|_|
+</pre>
 ---
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&theme=dark&show_icons=true" />
+    <source media = "(prefers-color-scheme: dark)" srcset = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&theme=dark&show_icons=true" />
     <img align = "right" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=Rudolf-Barbu&show_icons=true" />
 </picture>
 
