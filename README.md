@@ -6,7 +6,7 @@
     \/_/ /_/   \/_____/   \/____/   \/_____/   \/_____/   \/_/     ,　　　　　　.   *⠀　　⠀  　　　　　⠀✦
 
 Hello, world!
- -  I'm very passionate Java/Search developer, have great work experience.
+ -  I'm very passionate (Search & Java) developer, have great work experience.
  -  Myself is driven by a enthusiasm to make things, other people could use.
  -  I have good and strong, self-learning skills. Also, I have my own projects, so you can check them.
  -  Moreover, one of them achieved GitHub trending page.
